@@ -13,16 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\C Programming">
+      <UniqueIdentifier>{676e577f-e4cd-46b9-a5ad-5e327ab42b21}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="5-1.c">
-      <Filter>源文件</Filter>
+    <ClCompile Include="C Programming\5-1.c">
+      <Filter>源文件\C Programming</Filter>
     </ClCompile>
-    <ClCompile Include="5-2.c">
-      <Filter>源文件</Filter>
+    <ClCompile Include="C Programming\5-2.c">
+      <Filter>源文件\C Programming</Filter>
     </ClCompile>
-    <ClCompile Include="6-1.c">
-      <Filter>源文件</Filter>
+    <ClCompile Include="C Programming\6-1.c">
+      <Filter>源文件\C Programming</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

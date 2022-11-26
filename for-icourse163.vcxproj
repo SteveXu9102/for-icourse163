@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="5-1.c" />
-    <ClCompile Include="5-2.c" />
-    <ClCompile Include="6-1.c" />
+    <ClCompile Include="C Programming\5-1.c" />
+    <ClCompile Include="C Programming\5-2.c" />
+    <ClCompile Include="C Programming\6-1.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
