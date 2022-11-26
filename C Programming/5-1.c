@@ -1,4 +1,4 @@
-//Բ׶
+//圆锥
 
 #include <stdio.h>
 #include <math.h>
