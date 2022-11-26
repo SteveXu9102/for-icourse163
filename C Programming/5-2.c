@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int judgePrime(int n); //声明质数判断函数
+int judgePrime(int n); //质数判断
 
 int main()
 {
@@ -34,7 +34,7 @@ int main()
 
 int judgePrime(int n)
 {
-	int max = (int)sqrt(n), i;
+	int max = (int)sqrt(n), i; //对原数平方根取整减少运算
 	for (i = 2; i <= max; i++)
 	{
 		if (n % i == 0)

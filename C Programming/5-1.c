@@ -4,9 +4,9 @@
 #include <math.h>
 #define pi 3.14
 
-double AoS(double r, double h);
+double AoS(double r, double h); //计算表面积
 
-double Vol(double r, double h);
+double Vol(double r, double h); //计算体积
 
 int main() {
 	double r, h;
