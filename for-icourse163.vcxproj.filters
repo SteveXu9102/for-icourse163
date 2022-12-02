@@ -36,5 +36,8 @@
     <ClCompile Include="C Programming\7-1.c">
       <Filter>源文件\C Programming</Filter>
     </ClCompile>
+    <ClCompile Include="C Programming\7-2.c">
+      <Filter>源文件\C Programming</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
