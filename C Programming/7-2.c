@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <malloc.h>
 
+
 void sort(int* a, int n);
 
 int main()
