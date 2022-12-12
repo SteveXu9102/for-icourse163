@@ -1,0 +1,24 @@
+# ninja log v5
+1	1874	6925509991274968	CMakeFiles/for_icourse163.dir/C_Programming/3.c.obj	e375a3af15b04e2a
+348	1877	6925509994413733	CMakeFiles/for_icourse163.dir/C_Programming/5-1.c.obj	38f4d4baa3760424
+359	1878	6925509994629700	CMakeFiles/for_icourse163.dir/C_Programming/4-2.c.obj	98b4183a01add0b6
+1059	1881	6925509994953063	CMakeFiles/for_icourse163.dir/C_Programming/6-1.c.obj	807d59f15c3e1628
+370	1879	6925509994142621	CMakeFiles/for_icourse163.dir/C_Programming/4-1.c.obj	f495cf691f8b5fd3
+676	1880	6925509994323526	CMakeFiles/for_icourse163.dir/C_Programming/4-3.c.obj	e771bad48cce598d
+1386	1882	6925509995324782	CMakeFiles/for_icourse163.dir/C_Programming/5-2.c.obj	24c66009279f37e1
+1030	1880	6925509994741448	CMakeFiles/for_icourse163.dir/C_Programming/6-2.c.obj	2446c0fa5873ca72
+1709	2201	6925509995600876	CMakeFiles/for_icourse163.dir/C_Programming/7-2.c.obj	3cccb189d61ddb27
+1759	2222	6925509995882853	CMakeFiles/for_icourse163.dir/C_Programming/7-1.c.obj	4016b9577e430404
+1805	2236	6925509999074470	CMakeFiles/for_icourse163.dir/C_Programming/7-3.c.obj	10610e04a85ff95c
+1825	2257	6925509999300663	CMakeFiles/for_icourse163.dir/C_Programming/8-1.c.obj	36ac30abe9ea7a22
+1782	2265	6925509999433916	CMakeFiles/for_icourse163.dir/C_Programming/6-3.c.obj	fc37f494f967d80f
+1848	2269	6925509999453916	CMakeFiles/for_icourse163.dir/C_Programming/8-2.c.obj	4ed846d1fd2eb157
+1	966	6925510364424354	for_icourse163.exe	cf6f1b2c15f21f8e
+1	1179	6925510859435780	CMakeFiles/for_icourse163.dir/C_Programming/8-2.c.obj	4ed846d1fd2eb157
+1182	2128	6925510868891778	for_icourse163.exe	435413df397a04f5
+1	1210	6925515518260911	CMakeFiles/for_icourse163.dir/C_Programming/8-2.c.obj	4ed846d1fd2eb157
+1211	2132	6925515527382736	for_icourse163.exe	435413df397a04f5
+1	1192	6925516866423768	CMakeFiles/for_icourse163.dir/C_Programming/8-2.c.obj	4ed846d1fd2eb157
+1193	2239	6925516876824300	for_icourse163.exe	435413df397a04f5
+2	1174	6925517309738674	CMakeFiles/for_icourse163.dir/C_Programming/8-2.c.obj	4ed846d1fd2eb157
+1174	2006	6925517318013872	for_icourse163.exe	435413df397a04f5
