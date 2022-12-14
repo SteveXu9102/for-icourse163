@@ -4,4 +4,4 @@ project(for_icourse163 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(for_icourse163
-        "C Programming/8-2.c")
+        "C Programming/9.c")
