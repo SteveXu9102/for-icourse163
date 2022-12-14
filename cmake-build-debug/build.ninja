@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/Workspace/B22100429/for-icourse163/cmake-build-debug/
 
 build cmake_object_order_depends_target_for_icourse163: phony || CMakeFiles/for_icourse163.dir
 
-build CMakeFiles/for_icourse163.dir/C_Programming/9.c.obj: C_COMPILER__for_icourse163_Debug D$:/Workspace/B22100429/for-icourse163/C$ Programming/9.c || cmake_object_order_depends_target_for_icourse163
-  DEP_FILE = CMakeFiles\for_icourse163.dir\C_Programming\9.c.obj.d
+build CMakeFiles/for_icourse163.dir/C_Programming/10.c.obj: C_COMPILER__for_icourse163_Debug D$:/Workspace/B22100429/for-icourse163/C$ Programming/10.c || cmake_object_order_depends_target_for_icourse163
+  DEP_FILE = CMakeFiles\for_icourse163.dir\C_Programming\10.c.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu11
   OBJECT_DIR = CMakeFiles\for_icourse163.dir
   OBJECT_FILE_DIR = CMakeFiles\for_icourse163.dir\C_Programming
@@ -63,7 +63,7 @@ build CMakeFiles/for_icourse163.dir/C_Programming/9.c.obj: C_COMPILER__for_icour
 #############################################
 # Link the executable for_icourse163.exe
 
-build for_icourse163.exe: C_EXECUTABLE_LINKER__for_icourse163_Debug CMakeFiles/for_icourse163.dir/C_Programming/9.c.obj
+build for_icourse163.exe: C_EXECUTABLE_LINKER__for_icourse163_Debug CMakeFiles/for_icourse163.dir/C_Programming/10.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\for_icourse163.dir
